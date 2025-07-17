@@ -46,6 +46,7 @@
     <Compile Include="array.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Q-4.cs" />
     <Compile Include="Tutorial_4.cs" />
   </ItemGroup>
   <ItemGroup>
